@@ -6,3 +6,4 @@ print('y: ', y)
 
 print('PyCharm')
 
+print('staging enabled')
