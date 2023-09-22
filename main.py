@@ -1,6 +1,9 @@
-import os
+x = 10
+print('x:', x)
 
-print('date1')
-print('date2')
+y = x + 10
+print('y: ', y)
+
 print('date3')
 print('tutorial')
+
