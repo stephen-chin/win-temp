@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*- 한글 인코딩 에러를 방지하기 위한 부분
 import pandas
 import numpy
 import scipy.stats
