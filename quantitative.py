@@ -1,16 +1,3 @@
-import pandas
-import numpy
-import scipy.stats
-import datetime
-
-from PyQt5 import QtWidgets, QtCore, QtGui
-from pandas.tseries.offsets import BDay
-
-from database import *
-from dates import *
-from multipledispatch import dispatch
-
-
 class BridgeInterface:
     def __init__(self):
         super(BridgeInterface, self).__init__()

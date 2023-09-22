@@ -1,3 +1,4 @@
+import sqlite3
 class Database:
     def __init__(self):
         # self.path_kiwoom = "C:\\Users\\sc\\Dropbox\\dev\\project\\kiwoom\\data\\Kiwoom.db"
