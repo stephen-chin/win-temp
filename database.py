@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*- 한글 인코딩 에러를 방지하기 위한 부분
-import sqlite3
-import pandas
-
-from multipledispatch import dispatch
-
-
 class Database:
     def __init__(self):
         # self.path_kiwoom = "C:\\Users\\sc\\Dropbox\\dev\\project\\kiwoom\\data\\Kiwoom.db"
